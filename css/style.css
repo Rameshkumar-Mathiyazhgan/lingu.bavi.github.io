@@ -1,0 +1,38 @@
+.name{
+	font-family: Edwardian Script ITC;
+	font-size:40pt;
+}
+.and{
+	font-family: Edwardian Script ITC;
+	font-size:40pt;
+	color:#e86c6c;
+	margin-top:7px;
+	margin-left:10px;
+}
+.round-time{
+	background-color:#e86c6c;
+	color:#FFFFFF;
+	max-width:80px;
+	min-height:80px;
+	border-radius:50%;
+	margin-right: 5px;
+}
+.countdown-label{
+	font-size:10pt;
+	position:relative;
+	top:-8px;
+	font-style:italic;
+	font-family:poor richard;
+}
+.countdown-time{
+	position:relative;
+	top:10px;
+	font-size:25pt;
+	font-family:forte;
+}
+div[name="mobilecta"]{
+	padding-left:50px;
+}
+.cta div{
+	margin-bottom:10px;
+}
