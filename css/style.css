@@ -1,9 +1,12 @@
+/* FONT : font71022 */
+@import url('https://www.fontify.me/wf/2e906542463d9b122378072f35e1d05d');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
 .name{
-	font-family: Edwardian Script ITC;
+	font-family: font71022;
 	font-size:40pt;
 }
 .and{
-	font-family: Edwardian Script ITC;
+	font-family: font71022;
 	font-size:40pt;
 	color:#e86c6c;
 	margin-top:7px;
@@ -22,13 +25,13 @@
 	position:relative;
 	top:-8px;
 	font-style:italic;
-	font-family:poor richard;
+	font-family:Courgette;
 }
 .countdown-time{
 	position:relative;
 	top:10px;
 	font-size:25pt;
-	font-family:forte;
+	font-family:Courgette;
 }
 div[name="mobilecta"]{
 	padding-left:50px;
