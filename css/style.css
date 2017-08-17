@@ -1,13 +1,13 @@
 /* FONT : font71022 */
-@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Niconne');
 @import url('https://fonts.googleapis.com/css?family=Courgette');
 .name{
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Niconne', cursive;
 	font-size:30pt;
 	margin-top:8px;
 }
 .and{
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Niconne', cursive;
 	font-size:40pt;
 	color:#e86c6c;
 	margin-top:8px;
