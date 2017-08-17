@@ -4,13 +4,15 @@
 .name{
 	font-family: 'Niconne', cursive;
 	font-size:30pt;
+	margin-top:8px;
 }
 .and{
 	font-family: 'Niconne', cursive;
 	font-size:40pt;
 	color:#e86c6c;
 	margin-top:7px;
-	margin-left:10px;
+	margin-left:5px;
+	margin-right:5px;
 }
 .round-time{
 	background-color:#e86c6c;
