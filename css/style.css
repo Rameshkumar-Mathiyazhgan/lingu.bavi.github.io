@@ -1,12 +1,12 @@
 /* FONT : font71022 */
-@import url('https://www.fontify.me/wf/2e906542463d9b122378072f35e1d05d');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
 @import url('https://fonts.googleapis.com/css?family=Courgette');
 .name{
-	font-family: font71022;
+	font-family: 'Great Vibes', cursive;
 	font-size:40pt;
 }
 .and{
-	font-family: font71022;
+	font-family: 'Great Vibes', cursive;
 	font-size:40pt;
 	color:#e86c6c;
 	margin-top:7px;
