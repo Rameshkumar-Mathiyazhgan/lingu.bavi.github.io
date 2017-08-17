@@ -4,12 +4,13 @@
 .name{
 	font-family: 'Great Vibes', cursive;
 	font-size:40pt;
+	margin-top:8px;
 }
 .and{
 	font-family: 'Great Vibes', cursive;
 	font-size:40pt;
 	color:#e86c6c;
-	margin-top:7px;
+	margin-top:8px;
 	margin-left:10px;
 }
 .round-time{
